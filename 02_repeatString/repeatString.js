@@ -1,5 +1,5 @@
 const repeatString = function() {
-    expect(repeatString('hey', 3)).toEqual('heyheyhey');
+    return repeatString(`hey`, 5)
 };
 
 // Do not edit below this line
