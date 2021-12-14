@@ -4,7 +4,7 @@ const repeatString = function(hey, times) {
     for(let i=0; i<times; i++) {
         string+=`hey`
     }
-    return repeatString(`hey`, 5)
+    return String
 };
 
 // Do not edit below this line
